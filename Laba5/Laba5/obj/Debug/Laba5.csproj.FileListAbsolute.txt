@@ -1,0 +1,12 @@
+D:\Учеба\3 курс\1 сем\МиАПР\Лабы\5\Laba5\Laba5\bin\Debug\Laba5.exe.config
+D:\Учеба\3 курс\1 сем\МиАПР\Лабы\5\Laba5\Laba5\bin\Debug\Laba5.exe
+D:\Учеба\3 курс\1 сем\МиАПР\Лабы\5\Laba5\Laba5\bin\Debug\Laba5.pdb
+D:\Учеба\3 курс\1 сем\МиАПР\Лабы\5\Laba5\Laba5\obj\Debug\Laba5.csprojResolveAssemblyReference.cache
+D:\Учеба\3 курс\1 сем\МиАПР\Лабы\5\Laba5\Laba5\obj\Debug\Laba5.Form1.resources
+D:\Учеба\3 курс\1 сем\МиАПР\Лабы\5\Laba5\Laba5\obj\Debug\Laba5.Properties.Resources.resources
+D:\Учеба\3 курс\1 сем\МиАПР\Лабы\5\Laba5\Laba5\obj\Debug\Laba5.csproj.GenerateResource.Cache
+D:\Учеба\3 курс\1 сем\МиАПР\Лабы\5\Laba5\Laba5\obj\Debug\Laba5.exe
+D:\Учеба\3 курс\1 сем\МиАПР\Лабы\5\Laba5\Laba5\obj\Debug\Laba5.pdb
+D:\Учеба\3 курс\1 сем\REPOSIT\MIAPR_Lab5\Laba5\Laba5\bin\Debug\Laba5.exe.config
+D:\Учеба\3 курс\1 сем\REPOSIT\MIAPR_Lab5\Laba5\Laba5\obj\Debug\Laba5.exe
+D:\Учеба\3 курс\1 сем\REPOSIT\MIAPR_Lab5\Laba5\Laba5\obj\Debug\Laba5.pdb
